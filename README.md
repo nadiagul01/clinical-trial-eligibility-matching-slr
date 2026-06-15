@@ -1,8 +1,7 @@
 # Systematic Literature Review: Clinical Trial Eligibility Matching Using AI
 
 > **CS Department, NUCES (FAST-NUCES Islamabad)**  
-> **Authors:** Shoaib Iqbal Khan (24i-7811) & Nadia Gul (24i-7815)  
-> **Date:** January 2025
+> **Author:** Nadia Gul 
 
 ---
 
@@ -15,7 +14,7 @@ Clinical trial eligibility matching is critical for advancing medical research a
 ## 🎯 Research Objectives
 
 - Identify AI techniques and methodologies used for clinical trial eligibility matching
-- Evaluate accuracy and efficiency of these techniques
+- Evaluate the accuracy and efficiency of these techniques
 - Examine publicly available datasets and their key characteristics
 - Identify challenges and propose future research directions
 
